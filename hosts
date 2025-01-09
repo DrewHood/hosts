@@ -10702,12 +10702,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 synad3.nuffnang.com.my
 
 # [nytimes.com]
-0.0.0.0 a-reporting.nytimes.com
-0.0.0.0 als-svc.nytimes.com
-0.0.0.0 dd.nytimes.com
-0.0.0.0 et.nytimes.com
-0.0.0.0 a.et.nytimes.com
-0.0.0.0 meter-svc.nytimes.com
+# 0.0.0.0 a-reporting.nytimes.com
+# 0.0.0.0 als-svc.nytimes.com
+# 0.0.0.0 dd.nytimes.com
+# 0.0.0.0 et.nytimes.com
+# 0.0.0.0 a.et.nytimes.com
+# 0.0.0.0 meter-svc.nytimes.com
 
 # [o18.click]
 0.0.0.0 twotreymedia10001697.o18.click
